@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Image data folder
+cars/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+ENV/
+env.bak/
+venv.bak/
+
+# Excel output
+responses.xlsx
